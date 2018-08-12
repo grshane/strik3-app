@@ -1,0 +1,4 @@
+name: strik-3-app
+recipe: drupal8
+config:
+  webroot: web
